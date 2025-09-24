@@ -12,7 +12,8 @@ import AdminCategoryTable from "./pages/Admin/AdminCategories";
 import CategoryDetailPage from "./pages/Admin/AdminCategoryDetails";
 import CourseDetailPage from "./pages/student/courseDetails";
 import AdminRoutes from "./utils/AdminRoutes";
-import TeacherRoutes from "./utils/TeacherRoutes.jsx";
+import TeacherRoutes from "./utils/TeacherRoutes";
+
 
 import Login from "./pages/student/login";
 import Signup from "./pages/student/signUp";
